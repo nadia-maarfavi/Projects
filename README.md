@@ -6,4 +6,13 @@ Contains the python code, sample of video as an input, output sample, coco name 
 https://pjreddie.com/media/files/yolov3.weights
 
 ## BertKtrainEmotion.ipynb
-Contains the code to apply on text for Emotion detection. To run this code you need to have the pre-trained model which I trained on the IMDB dataset, the sample of data (comments) as input. I saved the pre-trained model and datasets on the.... folder. 
+Contains the code to apply on text for Emotion detection. To run this code you need to have the pre-trained model which I trained on the IMDB dataset, the sample of data (comments) as input. I saved the pre-trained model and datasets on the Emotion.Detection.GitHub folder. 
+
+## BertKtrainSentimen.ipynb
+Contains the code to apply on text for sentiment analysis. To run this code you need to have the pre-trained model which I trained on the IMDB dataset, the sample of data (comments) as input. I saved the pre-trained model and datasets on the Sentiment.Analysis.GitHub folder. 
+
+## Emotion.Detection.GitHub
+Contains the sample of input dataset, sample of output and pretrained model. You need to sava all this files into the same location of .ipynb file to be able to run the code. The python code works with Google Colab, so you can save the file on your google drive.
+
+## Sentiment.Analysis.GitHub
+Contains the sample of input dataset, sample of output and pretrained model. You need to sava all this files into the same location of .ipynb file to be able to run the code. The python code works with Google Colab, so you can save the file on your google drive.
